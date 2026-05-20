@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there 👋, I'm Md Saiful Islam<br><br>💻 Backend Developer passionate about building scalable web applications and solving real-world problems through code.<br><br>🚀 Currently working with:<br><br>* PHP & Laravel<br>* React.js<br>* JavaScript<br>* MySQL & MongoDB<br>* C# & .NET<br><br>🎯 Interested in:<br><br>* Backend Development<br>* Software Engineering<br>* AI & Machine Learning<br>* Full Stack Web Development<br><br>📚 Currently learning:<br><br>* Advanced Laravel<br>* MERN Stack<br>* Machine Learning with Python<br><br>🛠️ Projects:<br><br>* Ride Sharing Application<br>* Expense Tracker App<br>* Air Quality Prediction Using Machine Learning<br><br>🌱 Always learning new technologies and improving problem-solving skills.<br><br>📫 Reach me:<br>Email: [your-email@example.com](mailto:your-email@example.com)<br><br>⚡ Fun fact: I love turning ideas into real-world applications.<br>
+# Hi there 👋, I'm Md Saiful Islam<br><br>💻 Backend Developer passionate about building scalable web applications and solving real-world problems through code.<br><br>🚀 Currently working with:<br><br>* PHP & Laravel<br>* React.js<br>* JavaScript<br>* MySQL & MongoDB<br>* C# & .NET<br><br>🎯 Reach me:<br>Email: [your-email@example.com](mailto:your-email@example.com)<br><br>⚡ Fun fact: I love turning ideas into real-world applications.<br>
 
 
 ## 🌐 Socials:
